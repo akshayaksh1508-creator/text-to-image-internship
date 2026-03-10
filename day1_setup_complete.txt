@@ -1,0 +1,7 @@
+Day 1 - Environment Setup Complete
+PyTorch      : 2.10.0+cu128
+Transformers : 5.0.0
+Diffusers    : 0.36.0
+NumPy        : 2.0.2
+CUDA         : True
+GPU          : Tesla T4
