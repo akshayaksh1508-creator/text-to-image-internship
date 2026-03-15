@@ -1,0 +1,6 @@
+image_01.jpg: a photo of sks flower with bright pink petals and a yellow centre
+image_02.jpg: a photo of sks flower with soft white petals and delicate stamens
+image_03.jpg: a photo of sks flower with deep purple petals and green leaves
+image_04.jpg: a photo of sks flower with orange and red petals in full bloom
+image_05.jpg: a photo of sks flower with small yellow petals and a round shape
+image_25.jpg: a photo of sks flower with layered deep red petals in full bloom
